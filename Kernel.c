@@ -7,7 +7,7 @@ int main(){ //Todo codigo C começa com a função main().
 
    // Se houver erro, retorna 1 para o erro. uname é responsavel por chamar as informações do OS e o Kernel.
    if (uname(&buffer) != 0) { //&Localizar a varivel buffer na memória RAM, Se o resultado for 1, retorne um erro.
-      perror("Erro ao localizar não encontrado.");
+      perror("Erro ao localizar.");
       return 1;
    }
 
