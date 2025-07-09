@@ -5,10 +5,10 @@
 # Sobre Kernel?
 # O que é Kernel?, Kernel é um software que gerencia recursos do hardware.
 # Um programa antes de chegar no hardware, ele passa por etapas.
-4. Usuario.
-3. Shell.
-2. Kernel
-1. Hardware.
+IV - Usuario.
+III - Shell.
+II - Kernel
+I - Hardware.
 # Um Kernel pode gerenciar inicialização no bootloader, gerenciar arquivos.
 # Sim todo OS possui um Kernel.
 # O Kernel se localiza na memória RAM assim, que a máquina é ligado ele começa sua tarefa.
